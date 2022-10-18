@@ -1,0 +1,9 @@
+@media screen and (max-width:590px) {
+    .coin-app {
+        width: 100vw;
+    }
+
+    .coin-row {
+        max-width: 25rem;
+    }
+}

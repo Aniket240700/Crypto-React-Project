@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 import Coin from "./Coin";
+import './new.css'
 
 function Lists() {
   const [coins, setCoins] = useState([]);
